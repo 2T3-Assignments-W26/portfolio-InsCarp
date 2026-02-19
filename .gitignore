@@ -5,7 +5,7 @@
 # Exmple to ignore exe files 
 
 *.exe 
-test.txt
+*.txt
 # To ignore a specific file, provide its name 
 
 secrets.txt 
