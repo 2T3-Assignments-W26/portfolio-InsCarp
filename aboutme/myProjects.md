@@ -13,7 +13,7 @@ I created a Minesweeper game on C# with 2 different modes. The classic one as ea
 
 ## Screenshots 
 
-![image 1]()
+![image 1](image1)
 ![image 2]()
 
 ### Code examples:
