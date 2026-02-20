@@ -20,7 +20,7 @@ Student in John Abbott College, I am learning Computer science in English. I am 
   * Learned how to create 3D animation cinematics on Unreal Engine
   * Designed a shooting game on Unreal Engine
 
-## Skill 
+## Skills 
 
  | Technical | Design |
  | ------- | ------- |
