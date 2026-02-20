@@ -22,10 +22,10 @@ Student in John Abbott College, I am learning Computer science in English. I am 
 
 ## Skills 
 
- | Skill 1 | Skill 2 |
+ | Technical | Design |
  | ------- | ------- |
- |info 1 | Info 1 |
- | info 2 | Info 2 |
+ |Programming (C#, HTML, Python) | Visual design (CSS, WordPress) |
+ | Microsoft Office | Digital Art (Krita, TV Paint) |
 
  ## Education
 
