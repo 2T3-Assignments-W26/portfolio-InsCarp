@@ -31,5 +31,4 @@ Student in John Abbott College, I am learning Computer science in English. I am 
 
  | Degree | School | Year |
  | ------ | ------ | ---- |
- |info 1 | Info 1 | info 1 |
- | info 2 | Info 2 | info 2 |
+ |Diplome national du Brevet | Jules Ferry (France) | 2023 |
