@@ -1,4 +1,4 @@
-![image of me]()
+![image of me](bunny.jpg)
 
 # Ines Carpentier
 ---
