@@ -59,8 +59,9 @@ As a final project, our goal was to create a custom ISO Image using NTLite to fo
 
 ## Screenshots 
 
-![image 1]()
-![image 2]()
+![image 1](img1.png)
+![image 2](img2.png)
+![image 3](img3.png)
 
 
 ## What I've learnt
