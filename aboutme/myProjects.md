@@ -47,7 +47,7 @@ I've learnt how to keep data placed on the command and keep the user choice on t
 
 ## Description
 
-As a final project, our goal was to create a custom ISO Image using NTLite to format it. It was supposed to be developped for a fictional company so we needed to remove useless component from an original ISO Image 
+As a final project, our goal was to create a custom ISO Image using NTLite to format it. It was supposed to be developped for a fictional company so we needed to remove useless component from an original ISO Image.
 
 > As example, we have used Windows 11 original ISO Image
 
