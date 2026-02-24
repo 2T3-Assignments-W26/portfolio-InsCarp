@@ -11,5 +11,5 @@
 
 - [Link to the repository](https://github.com/2T3-Assignments-W26/portfolio-InsCarp.git)
   
-
-- [Link to the repository](https://github.com/2T3-Assignments-W26/portfolio-InsCarp.git)
+- Repository
+ - [Link to the repository](https://github.com/2T3-Assignments-W26/portfolio-InsCarp.git)
